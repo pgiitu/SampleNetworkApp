@@ -1,1 +1,1 @@
-include ':app', ':networkmonitorlibrary'
+include ':app',':NetworkMonitorLibrary'

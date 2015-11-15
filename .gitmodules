@@ -1,0 +1,3 @@
+[submodule "NetworkMonitorLibrary"]
+	path = NetworkMonitorLibrary
+	url = https://github.com/pgiitu/NetworkMonitorLibrary.git

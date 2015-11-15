@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NetworkApplication.iml" filepath="$PROJECT_DIR$/NetworkApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/networkmonitorlibrary/networkmonitorlibrary.iml" filepath="$PROJECT_DIR$/networkmonitorlibrary/networkmonitorlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkMonitorLibrary/networkmonitorlibrary.iml" filepath="$PROJECT_DIR$/NetworkMonitorLibrary/networkmonitorlibrary.iml" />
     </modules>
   </component>
 </project>
