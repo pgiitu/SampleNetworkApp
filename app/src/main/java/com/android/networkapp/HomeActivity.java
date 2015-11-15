@@ -9,11 +9,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.android.lib.networkmonitor.NetworkManager;
 import com.android.lib.networkmonitor.NetworkMonitor;
 
 public class HomeActivity extends AppCompatActivity {
 
-    NetworkMonitor.NetworkChangeListener listener = new NetworkMonitor.NetworkChangeListener() {
+    NetworkManager.NetworkChangeListener listener = new NetworkManager.NetworkChangeListener() {
         @Override
         public void onConnectivityChanged(boolean connected) {
             Log.d("NetworkApp", "onConnectivityChangedCallback connected: " + connected);
